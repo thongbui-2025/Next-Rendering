@@ -20,9 +20,6 @@ export default function Home() {
 							Incremental Static Regeneration (ISR)
 						</Link>
 					</li>
-					<li>
-						<Link href="/isr-on-demand">ISR On-Demand</Link>
-					</li>
 				</ul>
 			</nav>
 		</div>
